@@ -41,16 +41,6 @@ Projeto de análise financeira utilizando Python e visualização de dados.
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lanalara04&show_icons=true&theme=midnight-purple&hide_border=true"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanalara04&layout=compact&theme=midnight-purple&hide_border=true"/>
-</p>
-
----
-
 ## 🌐 Onde me encontrar
 
 💼 LinkedIn:  
